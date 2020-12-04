@@ -24,6 +24,57 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "cerveza": "",
+      "id": 6
+    },
+    {
+      "cerveza": "",
+      "id": 7
+    },
+    {
+      "Jugo de Naranja": "",
+      "id": 8
+    },
+    {
+      "cerveza": "",
+      "id": 9
+    },
+    {
+      "cerveza": "",
+      "id": 10
+    },
+    {
+      "cerveza": "",
+      "id": 11
+    },
+    {
+      "Rib Eye 800g": "",
+      "id": 12
+    },
+    {
+      "cerveza": "",
+      "id": 13
+    },
+    {
+      "cerveza": "",
+      "id": 14
+    },
+    {
+      "nombre": "cerveza",
+      "precio": 300,
+      "id": 15
+    },
+    {
+      "nombre": "cerveza",
+      "precio": 300,
+      "id": 16
+    },
+    {
+      "nombre": "cerveza",
+      "precio": 300,
+      "id": 17
     }
   ]
 }
