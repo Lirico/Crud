@@ -1,80 +1,14 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
       "nombre": "Rib Eye 800g",
-      "precio": "200",
+      "precio": "600",
       "id": 4
     },
     {
       "nombre": "Jugo de Fresa",
-      "precio": "200",
+      "precio": "600",
       "id": 5
-    },
-    {
-      "cerveza": "",
-      "id": 6
-    },
-    {
-      "cerveza": "",
-      "id": 7
-    },
-    {
-      "Jugo de Naranja": "",
-      "id": 8
-    },
-    {
-      "cerveza": "",
-      "id": 9
-    },
-    {
-      "cerveza": "",
-      "id": 10
-    },
-    {
-      "cerveza": "",
-      "id": 11
-    },
-    {
-      "Rib Eye 800g": "",
-      "id": 12
-    },
-    {
-      "cerveza": "",
-      "id": 13
-    },
-    {
-      "cerveza": "",
-      "id": 14
-    },
-    {
-      "nombre": "cerveza",
-      "precio": 300,
-      "id": 15
-    },
-    {
-      "nombre": "cerveza",
-      "precio": 300,
-      "id": 16
-    },
-    {
-      "nombre": "cerveza",
-      "precio": 300,
-      "id": 17
     }
   ]
 }
